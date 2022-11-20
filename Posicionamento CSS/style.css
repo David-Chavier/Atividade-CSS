@@ -1,0 +1,42 @@
+body{
+    background-color: gray;
+}
+#blue{
+    background-color: blue;
+    width: 700px;
+    height: 700px;
+    display: flex;
+    margin: auto;
+}
+#red{
+    background-color: red;
+    width:600px;
+    height: 600px;
+    display: flex;
+    margin: auto;
+    
+}
+#black{
+    background-color: black;
+    width: 400px;
+    height: 400px;    
+    display: flex;
+    margin: auto;
+    
+}
+#green{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    margin: auto;
+}
+#yellow{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+   
+}
+
+

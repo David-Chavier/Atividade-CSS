@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    background-color: gray;
+}
+
+#div1{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 0;
+    
+}
+#div2{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#div3{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    
+}
+#div4{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}

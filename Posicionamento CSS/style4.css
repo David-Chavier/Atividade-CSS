@@ -1,0 +1,34 @@
+body{
+    background-color: gray;
+    display: flex;
+    
+}
+section{
+    display: flex;
+    
+}
+
+.block1{
+    width: 100px;
+    height: 100px;
+    background: black;
+    margin: 3px;
+}
+.block2{
+    width: 100px;
+    height: 100px;
+    background: black;
+    margin: 3px;
+    
+    
+    
+}
+#block2{
+   position: absolute;   
+   right: 0;
+   bottom: 0;
+   
+}
+ #block2 section{
+    justify-content: right;
+}
